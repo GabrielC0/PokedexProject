@@ -2,12 +2,11 @@
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 <!-- [![Stargazers][stars-shield]][stars-url] -->
+
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -31,8 +30,6 @@
     <a href="https://github.com/JulesEfrei/Pokedex/pulls">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -59,9 +56,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
@@ -72,29 +68,24 @@ List all Pokemon, object, etc and their informations thanks to the PokeAPI.
 
 **State of the Project => Alpha**
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project.
 
-* [React Native](https://reactnative.dev)
-* [Expo](https://expo.dev)
-* [TypeScript](https://www.typescriptlang.org)
+- [React Native](https://reactnative.dev)
+- [Expo](https://expo.dev)
+- [TypeScript](https://www.typescriptlang.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
 
 ### Installation
 
@@ -109,9 +100,8 @@ To get a local copy up and running follow these simple example steps.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 1. Start the project
@@ -122,9 +112,8 @@ To get a local copy up and running follow these simple example steps.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 Here is the roadmap of the project. Checked flags mean the features is out and unchecked flags mean that the feature is comming.
@@ -141,9 +130,8 @@ See the [open issues](https://github.com/JulesEfrei/Pokedex/issues) for a full l
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -159,25 +147,24 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- Credit -->
+
 ## Credit
 
 List of people
 
-* [Me](https://github.com/JulesEfrei)
-- [Romain](https://github.com/RoromainM)
-- [Cristian](https://github.com/DemoxDev)
-- [Lisa](https://github.com/lisaamm)
-- [Gabriel](https://github.com/GabrielC0)
-- [Benjamin](https://github.com/bibil77)
+- [Jules](https://github.com/JulesEfrei)
+
+* [Romain](https://github.com/RoromainM)
+* [Cristian](https://github.com/DemoxDev)
+* [Lisa](https://github.com/lisaamm)
+* [Gabriel](https://github.com/GabrielC0)
+* [Benjamin](https://github.com/bibil77)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Linked'in - [Jules](https://www.linkedin.com/in/jules-bruzeau/)
@@ -186,25 +173,20 @@ GitHub Profile: [JulesEfrei](https://github.com/JulesEfrei/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information. If no license is available in the Pokedex, it will be available one day, I hope.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- [contributors-shield]: https://img.shields.io/github/contributors/JulesEfrei/Pokedex.svg?style=for-the-badge
 [contributors-url]: https://github.com/JulesEfrei/Pokedex/graphs/contributors -->
 <!-- [stars-shield]: https://img.shields.io/github/stars/JulesEfrei/Pokedex.svg?style=for-the-badge
 [stars-url]: https://github.com/JulesEfrei/Pokedex/stargazers -->
+
 [forks-shield]: https://img.shields.io/github/forks/JulesEfrei/Pokedex.svg?style=for-the-badge
 [forks-url]: https://github.com/JulesEfrei/Pokedex/network/members
 [issues-shield]: https://img.shields.io/github/issues/JulesEfrei/Pokedex.svg?style=for-the-badge
@@ -213,4 +195,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information. If no
 [license-url]: https://github.com/JulesEfrei/Pokedex/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jules-bruzeau/
+
 [product-screenshot]: images/screenshot.png# PokedexProject
